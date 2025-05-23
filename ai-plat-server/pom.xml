@@ -10,7 +10,7 @@
         <relativePath>../pom.xml</relativePath> <!-- Points to the parent POM -->
     </parent>
 
-    <artifactId>ai-plat-service</artifactId>
+    <artifactId>ai-plat-server</artifactId>
     <name>AI Service Module</name>
     <description>Sub-module for AI related services</description>
 

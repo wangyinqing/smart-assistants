@@ -27,7 +27,7 @@
     </parent>
 
     <modules>
-        <module>ai-plat-service</module>
+        <module>ai-plat-server</module>
     </modules>
 
     <dependencyManagement>
