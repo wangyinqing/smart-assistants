@@ -28,6 +28,7 @@
 
     <modules>
         <module>ai-service</module>
+        <module>ai-plat-service</module>
     </modules>
 
     <dependencyManagement>
