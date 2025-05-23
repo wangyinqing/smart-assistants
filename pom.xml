@@ -15,15 +15,15 @@
         <java.version>17</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <spring-boot.version>3.2.5</spring-boot.version>
-        <spring-ai.version>1.0.0-M1</spring-ai.version> <!- Adjust if a newer/more appropriate version is found -->
+        <spring-boot.version>3.4.5</spring-boot.version>
+        <spring-ai.version>1.0.0</spring-ai.version>
     </properties>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>${spring-boot.version}</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <version>3.4.5</version>
+        <relativePath/>
     </parent>
 
     <modules>
