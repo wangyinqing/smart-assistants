@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>ai-plat-server</artifactId>
-    <name>AI Service Module</name>
+    <name>AI Plat Server</name>
     <description>Sub-module for AI related services</description>
 
     <dependencies>
@@ -24,6 +24,12 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.binary2all.ai.plat</groupId>
+            <artifactId>ai-plat-service</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
